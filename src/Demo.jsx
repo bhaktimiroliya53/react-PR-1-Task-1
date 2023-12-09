@@ -48,6 +48,7 @@ class Demo extends Component {
             <>
                 <Data 
                     data = {this.data}
+                    
                 />
             </>
         )
